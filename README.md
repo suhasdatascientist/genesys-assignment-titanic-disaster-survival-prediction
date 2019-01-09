@@ -1,2 +1,2 @@
-# genesys-assignment-titanic-disaster-survival-prediction
+# genisys-assignment-titanic-disaster-survival-prediction
 titanic disaster survival prediction
